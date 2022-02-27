@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <sc_catalog display_value="Testing Catalog">62e26abb1b310110a477a8e5604bcb48</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-27 23:02:10</sys_created_on>
+        <sys_id>39f2eabb1b310110a477a8e5604bcb79</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Testing Catalog.catalog_testing_catalog</sys_name>
+        <sys_package display_value="hello sowmya" source="x_677464_hello_sow">49f1eaf71b310110a477a8e5604bcbce</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_testing_catalog">f1f2eabb1b310110a477a8e5604bcb78</sys_portal_page>
+        <sys_scope display_value="hello sowmya">49f1eaf71b310110a477a8e5604bcbce</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_39f2eabb1b310110a477a8e5604bcb79</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-27 23:02:10</sys_updated_on>
+    </sc_catalog_view_mtom>
+</record_update>
